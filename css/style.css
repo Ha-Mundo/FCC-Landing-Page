@@ -374,6 +374,9 @@ footer {
   }
 
   /* Main Content */
+  .hero {
+    margin: 70px auto 0 auto;
+  }
   .main-title {
     font-size: 2.5em;
     line-height: 1.3;
