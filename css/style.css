@@ -97,8 +97,8 @@ span {
 /* Main Content */
 .hero {
   min-height: 95vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.8), transparent),
-    url("/images/background.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), transparent),
+    url("./images/background.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
