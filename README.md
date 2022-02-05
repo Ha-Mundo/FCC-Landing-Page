@@ -4,9 +4,9 @@
 
 **Objective:** Build a page that is functionally similar to this: https://codepen.io/freeCodeCamp/full/RKRbwL.
 
-**Live preview** of my page is [here](https://ha-mundo.github.io/FCC-Landing-Page/).
+**Live preview** of my page is [here](https://start-landing-page.netlify.app/).
 
-**Source of the project** can be found in [freeCodeCamp curriculum](https://start-landing-page.netlify.app/).
+**Source of the project** can be found in [freeCodeCamp curriculum](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page).
 
 ## Requirements
 
